@@ -1,3 +1,3 @@
-# ElmoEvaluateOnPersianTexts
-<a href="https://github.com/HIT-SCIR/ELMoForManyLangs">Elmo Embedding</a> evaluation on persian text
+# ElmoEvaluateOnTexts
 
+experiments on using <a href="https://github.com/HIT-SCIR/ELMoForManyLangs">Elmo Emdding</a> as text vector in text classification 
